@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abood-sh&label=Profile%20views&color=0e75b6&style=flat" alt="abood-sh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abood-sh" alt="abood-sh" /></a> </p>
 
 - 🧗 I try to: Go beyond and push the boundaries **.**
 
